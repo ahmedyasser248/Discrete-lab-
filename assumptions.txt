@@ -1,0 +1,3 @@
+♥ask the user to submit the number of sets before their elements
+♥universe set is not used in any operation except for the complement
+♥choosing the sets by their number , for example : you chose union ( which is number 1 ) between two sets if u entered 3 sets and u want the union between the last two then you will type 2 and 3 referring the the last two sets ( 1 and 3 will refere to the first and last sets and so on )
