@@ -1,5 +1,4 @@
-import com.company.Methods;
-import com.company.SLL;
+package classes;
 
 import java.util.Scanner;
 
