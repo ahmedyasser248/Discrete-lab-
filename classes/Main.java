@@ -46,6 +46,7 @@ public class Main {
             System.out.println("1-Union of two sets");
             System.out.println("2-Intersection of two sets");
             System.out.println("3-Complement of a set");
+             System.out.println("4-exit");
             int choose = scan.nextInt();
             if (choose == 1) {
                 System.out.println("Choose the two sets by their arranged number ");
